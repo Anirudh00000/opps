@@ -1,0 +1,5 @@
+C:\Users\ANI\source\repos\opps concept\opps concept\obj\Debug\net6.0\opps concept.csproj.AssemblyReference.cache
+C:\Users\ANI\source\repos\opps concept\opps concept\obj\Debug\net6.0\opps concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANI\source\repos\opps concept\opps concept\obj\Debug\net6.0\opps concept.AssemblyInfoInputs.cache
+C:\Users\ANI\source\repos\opps concept\opps concept\obj\Debug\net6.0\opps concept.AssemblyInfo.cs
+C:\Users\ANI\source\repos\opps concept\opps concept\obj\Debug\net6.0\opps concept.csproj.CoreCompileInputs.cache
